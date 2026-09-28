@@ -1,0 +1,10 @@
+{
+  "order_id": "demo-1001",
+  "email": "new.buyer@example.com",
+  "total_cents": 24000,
+  "billing": {"country": "US", "province": "IL", "zip_code": "60462"},
+  "shipping": {"country": "CA", "province": "ON", "zip_code": "K1A 0B1"},
+  "is_first_order": true,
+  "ip": "203.0.113.10",
+  "line_items": [{"title": "Serum", "quantity": 2, "unit_price_cents": 12000}]
+}
